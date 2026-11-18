@@ -1,0 +1,13 @@
+{
+  "name": "ScOFF",
+  "author": "meoiswa",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": [
+      "screen",
+      "utility"
+    ],
+    "description": "Turn the Steam Deck screen off on demand while everything keeps running."
+  }
+}
