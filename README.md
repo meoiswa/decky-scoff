@@ -4,7 +4,8 @@ A [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) plugin that 
 while everything keeps running: music, video audio, streaming, downloads, long-running tasks. Press a button and the
 screen comes back.
 
-ScOFF isn't in the Decky Plugin Store. You install it directly from this GitHub page, which takes about two minutes.
+ScOFF isn't in the Decky Plugin Store. You install it directly from GitHub, which takes about two minutes.
+Short link to this page: **[scoff.meoiswa.cat](https://scoff.meoiswa.cat)**
 
 ## Installing
 
@@ -22,14 +23,17 @@ connection.
 1. In Decky's settings, open **Developer**.
 2. Under **Third-Party Plugins**, find **Install Plugin from URL** and enter this address:
    ```
-   https://github.com/meoiswa/decky-scoff/releases/latest/download/ScOFF.zip
+   https://scoff.meoiswa.cat/zip
    ```
 3. Select **Install**, then confirm the **Third-Party Plugin Installation** warning.
 4. ScOFF now appears in the Decky tab.
 
-Typing the address with the on-screen keyboard is fiddly. Instead, you can download `ScOFF.zip` from the
-[latest release](https://github.com/meoiswa/decky-scoff/releases/latest) to the Deck (for example in Desktop
-Mode), then in step 2 use **Install Plugin from ZIP File** → **Browse** and pick the file.
+The short address always points to the latest release. If it doesn't work, use the full GitHub address instead:
+`https://github.com/meoiswa/decky-scoff/releases/latest/download/ScOFF.zip`
+
+You can also download `ScOFF.zip` from the [latest release](https://github.com/meoiswa/decky-scoff/releases/latest)
+to the Deck (for example in Desktop Mode), then in step 2 use **Install Plugin from ZIP File** → **Browse** and pick
+the file.
 
 ### Updating
 
